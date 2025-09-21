@@ -14,7 +14,7 @@ Sistem ini bertujuan untuk menghitung gaji karyawan berdasarkan jam kerja, upah,
 
 - Karyawan Kontrak dikenakan pajak 5%
 
-Program menerima input berupa
+nilai - nilai untuk variabel berikut akan ditetapkan dalam kode program 
 
 - Nama
 - Jam kerja (per minggu)
